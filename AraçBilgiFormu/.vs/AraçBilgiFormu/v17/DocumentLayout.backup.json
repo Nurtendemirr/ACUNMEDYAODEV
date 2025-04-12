@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nurten\\Desktop\\ACUNMEDYAODEV\\Ara\u00E7BilgiFormu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7791EA0B-ECCB-44BF-9531-23DA5EBF15FA}|Ara\u00E7BilgiFormu.csproj|C:\\Users\\Nurten\\Desktop\\ACUNMEDYAODEV\\Ara\u00E7BilgiFormu\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7791EA0B-ECCB-44BF-9531-23DA5EBF15FA}|Ara\u00E7BilgiFormu.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7791EA0B-ECCB-44BF-9531-23DA5EBF15FA}|Ara\u00E7BilgiFormu.csproj|c:\\users\\nurten\\desktop\\acunmedyaodev\\ara\u00E7bilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7791EA0B-ECCB-44BF-9531-23DA5EBF15FA}|Ara\u00E7BilgiFormu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nurten\\Desktop\\ACUNMEDYAODEV\\Ara\u00E7BilgiFormu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Nurten\\Desktop\\ACUNMEDYAODEV\\Ara\u00E7BilgiFormu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:39:51.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nurten\\Desktop\\ACUNMEDYAODEV\\Ara\u00E7BilgiFormu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Nurten\\Desktop\\ACUNMEDYAODEV\\Ara\u00E7BilgiFormu\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:31:00.859Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

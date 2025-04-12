@@ -1,0 +1,18 @@
+1. Abstract Class (Soyut Sınıf) Nedir?
+Bir abstract class (soyut sınıf), başka sınıfların kalıtım alması için tasarlanmış, tamamlanmamış bir sınıftır. Kendi başına nesne oluşturulamaz.
+
+ Özellikleri:
+İçinde abstract (soyut) metotlar barındırabilir (gövdesiz).
+
+Aynı zamanda normal (gövdesi olan) metotlara da sahip olabilir.
+
+Amaç: Türeyen sınıflara ortak bir iskelet sağlamak.
+
+2. Abstraction (Soyutlama) Nedir?
+Abstraction, karmaşık sistemlerin sadece gerekli kısmını gösterme işlemidir.
+Gereksiz detayları gizler, kullanıcıya sadece ne yapılacağını gösterir, nasıl yapıldığını değil.
+
+ Amaç: Kullanıcı, detaylarla uğraşmasın!
+
+3. Polymorphism (Çok Biçimlilik) Nedir?
+Polymorphism, aynı isimdeki metodun, farklı sınıflarda farklı şekillerde çalışabilmesidir.

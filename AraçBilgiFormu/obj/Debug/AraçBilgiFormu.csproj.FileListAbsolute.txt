@@ -1,0 +1,10 @@
+C:\Users\Nurten\Desktop\ACUNMEDYAODEV\AraçBilgiFormu\bin\Debug\AraçBilgiFormu.exe.config
+C:\Users\Nurten\Desktop\ACUNMEDYAODEV\AraçBilgiFormu\bin\Debug\AraçBilgiFormu.exe
+C:\Users\Nurten\Desktop\ACUNMEDYAODEV\AraçBilgiFormu\bin\Debug\AraçBilgiFormu.pdb
+C:\Users\Nurten\Desktop\ACUNMEDYAODEV\AraçBilgiFormu\obj\Debug\AraçBilgiFormu.csproj.AssemblyReference.cache
+C:\Users\Nurten\Desktop\ACUNMEDYAODEV\AraçBilgiFormu\obj\Debug\AraçBilgiFormu.Form1.resources
+C:\Users\Nurten\Desktop\ACUNMEDYAODEV\AraçBilgiFormu\obj\Debug\AraçBilgiFormu.Properties.Resources.resources
+C:\Users\Nurten\Desktop\ACUNMEDYAODEV\AraçBilgiFormu\obj\Debug\AraçBilgiFormu.csproj.GenerateResource.cache
+C:\Users\Nurten\Desktop\ACUNMEDYAODEV\AraçBilgiFormu\obj\Debug\AraçBilgiFormu.csproj.CoreCompileInputs.cache
+C:\Users\Nurten\Desktop\ACUNMEDYAODEV\AraçBilgiFormu\obj\Debug\AraçBilgiFormu.exe
+C:\Users\Nurten\Desktop\ACUNMEDYAODEV\AraçBilgiFormu\obj\Debug\AraçBilgiFormu.pdb
